@@ -37,7 +37,10 @@ var PrayerTimes = (function() {
 			params: { fajr: 17.7, isha: 14, maghrib: 4.5, midnight: 'Jafari' } },  // isha is not explicitly specified in this method
 		Jafari: {
 			name: 'Shia Ithna-Ashari, Leva Institute, Qum',
-			params: { fajr: 16, isha: 14, maghrib: 4, midnight: 'Jafari' } }
+			params: { fajr: 16, isha: 14, maghrib: 4, midnight: 'Jafari' } },
+		KEMENAG: {
+			name: 'Kementrian Agama RI',
+			params: { fajr: 20, isha: 18 } },
 	};
 
 	var defaultParams = {
