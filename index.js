@@ -39,7 +39,7 @@ var PrayerTimes = (function() {
 			name: 'Shia Ithna-Ashari, Leva Institute, Qum',
 			params: { fajr: 16, isha: 14, maghrib: 4, midnight: 'Jafari' } },
 		KEMENAG: {
-			name: 'Kementrian Agama RI',
+			name: 'Ministry of Religious Affairs of Indonesia',
 			params: { fajr: 20, isha: 18 } },
 	};
 
